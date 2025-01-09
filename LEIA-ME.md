@@ -1,6 +1,8 @@
 ### Painel SuperStore Sales
 Este projeto analisa 4 anos de vendas de uma superloja global.
 
+LINK: https://lookerstudio.google.com/reporting/15b925e9-aa40-4406-858e-059f2636aa95****
+
 ### Funcionalidades  
 
 - **Total de Vendas**: Exibe o faturamento total, detalhado por categoria, permitindo identificar tendências e áreas com potencial de crescimento ou necessidade de ajuste no mix de produtos.  
